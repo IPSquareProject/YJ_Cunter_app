@@ -1,8 +1,8 @@
 {
   "name": "counter-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/IPSquareProject/YJ_Cunter_app",
-  "private": true,
+  "homepage": "https://IPSquareProject.github.io/YJ_Cunter_app",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm rum build",
-    "deploy": "hg-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
