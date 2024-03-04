@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IPSquareProject/YJ_Cunter_app/static/css/main.dc4d6ff2.css",
+    "main.js": "/IPSquareProject/YJ_Cunter_app/static/js/main.9865d3b5.js",
+    "index.html": "/IPSquareProject/YJ_Cunter_app/index.html",
+    "main.dc4d6ff2.css.map": "/IPSquareProject/YJ_Cunter_app/static/css/main.dc4d6ff2.css.map",
+    "main.9865d3b5.js.map": "/IPSquareProject/YJ_Cunter_app/static/js/main.9865d3b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.9865d3b5.js"
+  ]
+}
